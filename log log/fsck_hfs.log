@@ -1,0 +1,1952 @@
+
+/dev/rdisk4s1: fsck_hfs started at Wed Dec  4 19:51:46 2024
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Dec  4 19:51:46 2024
+
+
+/dev/rdisk5s1: fsck_hfs started at Wed Dec  4 19:52:54 2024
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Wed Dec  4 19:52:54 2024
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Dec  4 19:57:04 2024
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Dec  4 19:57:04 2024
+
+
+/dev/rdisk5s2: fsck_hfs started at Wed Dec  4 19:57:30 2024
+/dev/rdisk5s2: Can't open /dev/rdisk5s2: Permission denied
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Wed Dec  4 19:57:30 2024
+
+
+/dev/rdisk5s2: fsck_hfs started at Wed Dec  4 19:57:30 2024
+/dev/rdisk5s2: Can't open /dev/rdisk5s2: Permission denied
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Wed Dec  4 19:57:30 2024
+
+
+/dev/rdisk5s1: fsck_hfs started at Wed Dec  4 20:04:22 2024
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Wed Dec  4 20:04:22 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Dec  4 20:19:18 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Dec  4 20:19:18 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Dec  4 22:07:20 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Dec  4 22:07:20 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Dec  4 22:07:20 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Dec  4 22:07:20 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Dec  7 10:04:32 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Dec  7 10:04:32 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Dec  7 10:04:32 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Dec  7 10:04:32 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Dec 13 19:52:49 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Dec 13 19:52:49 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Dec 13 19:52:50 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Dec 13 19:52:50 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Dec 19 22:28:57 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Dec 19 22:28:57 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Dec 19 22:28:57 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Dec 19 22:28:57 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Dec 20 18:11:39 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Dec 20 18:11:39 2024
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Dec 20 18:11:39 2024
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Dec 20 18:11:39 2024
+
+
+/dev/rdisk4s3: fsck_hfs started at Sat Jan  4 13:33:18 2025
+/dev/rdisk4s3: Can't open /dev/rdisk4s3: Permission denied
+/dev/rdisk4s3: /dev/rdisk4s3: ** /dev/rdisk4s3 (NO WRITE)
+/dev/rdisk4s3:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s3: fsck_hfs completed at Sat Jan  4 13:33:18 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sat Jan  4 23:59:49 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sat Jan  4 23:59:49 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon Jan 13 22:04:33 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon Jan 13 22:04:33 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon Jan 13 22:04:33 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon Jan 13 22:04:33 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Jan 25 12:23:47 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Jan 25 12:23:47 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Jan 25 12:23:47 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Jan 25 12:23:47 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Jan 25 17:26:24 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Jan 25 17:26:24 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Jan 25 17:26:24 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Jan 25 17:26:24 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Jan 25 17:26:46 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Jan 25 17:26:46 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Jan 25 17:26:46 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Jan 25 17:26:46 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Sun Jan 26 10:43:02 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Sun Jan 26 10:43:02 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Sun Jan 26 10:43:02 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Sun Jan 26 10:43:02 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Sun Jan 26 10:43:20 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Sun Jan 26 10:43:20 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Sun Jan 26 10:43:20 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Sun Jan 26 10:43:20 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Jan 28 19:00:54 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Jan 28 19:00:54 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Jan 28 19:00:54 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Jan 28 19:00:54 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Jan 29 21:34:28 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Jan 29 21:34:29 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Jan 29 21:34:29 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Jan 29 21:34:29 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Feb  2 18:34:53 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Feb  2 18:34:53 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Feb  2 18:34:53 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Feb  2 18:34:53 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Feb  2 18:35:12 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Feb  2 18:35:12 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Feb  2 18:35:12 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Feb  2 18:35:12 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Feb  2 20:57:49 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Feb  2 20:57:49 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Feb  2 20:57:49 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Feb  2 20:57:49 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Feb  2 20:57:50 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Feb  2 20:57:50 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Feb  2 20:57:50 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Feb  2 20:57:50 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Feb  2 21:57:57 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Feb  2 21:57:57 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Feb  2 21:57:57 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Feb  2 21:57:57 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Feb  2 22:29:57 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Feb  2 22:29:57 2025
+
+
+/dev/rdisk7s2: fsck_hfs started at Mon Feb  3 20:27:02 2025
+/dev/rdisk7s2: Can't open /dev/rdisk7s2: Permission denied
+/dev/rdisk7s2: /dev/rdisk7s2: ** /dev/rdisk7s2 (NO WRITE)
+/dev/rdisk7s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s2: fsck_hfs completed at Mon Feb  3 20:27:02 2025
+
+
+/dev/rdisk7s2: fsck_hfs started at Mon Feb  3 20:27:02 2025
+/dev/rdisk7s2: Can't open /dev/rdisk7s2: Permission denied
+/dev/rdisk7s2: /dev/rdisk7s2: ** /dev/rdisk7s2 (NO WRITE)
+/dev/rdisk7s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s2: fsck_hfs completed at Mon Feb  3 20:27:02 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Mon Feb  3 20:27:02 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Mon Feb  3 20:27:02 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Mon Feb  3 20:27:03 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Mon Feb  3 20:27:03 2025
+
+
+/dev/rdisk7s1: fsck_hfs started at Mon Feb  3 21:27:32 2025
+/dev/rdisk7s1: Can't open /dev/rdisk7s1: Permission denied
+/dev/rdisk7s1: /dev/rdisk7s1: ** /dev/rdisk7s1 (NO WRITE)
+/dev/rdisk7s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s1: fsck_hfs completed at Mon Feb  3 21:27:32 2025
+
+
+/dev/rdisk7s1: fsck_hfs started at Mon Feb  3 21:27:32 2025
+/dev/rdisk7s1: Can't open /dev/rdisk7s1: Permission denied
+/dev/rdisk7s1: /dev/rdisk7s1: ** /dev/rdisk7s1 (NO WRITE)
+/dev/rdisk7s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s1: fsck_hfs completed at Mon Feb  3 21:27:32 2025
+
+
+/dev/rdisk8s1: fsck_hfs started at Mon Feb  3 21:27:32 2025
+/dev/rdisk8s1: Can't open /dev/rdisk8s1: Permission denied
+/dev/rdisk8s1: /dev/rdisk8s1: ** /dev/rdisk8s1 (NO WRITE)
+/dev/rdisk8s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s1: fsck_hfs completed at Mon Feb  3 21:27:32 2025
+
+
+/dev/rdisk8s1: fsck_hfs started at Mon Feb  3 21:27:32 2025
+/dev/rdisk8s1: Can't open /dev/rdisk8s1: Permission denied
+/dev/rdisk8s1: /dev/rdisk8s1: ** /dev/rdisk8s1 (NO WRITE)
+/dev/rdisk8s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s1: fsck_hfs completed at Mon Feb  3 21:27:32 2025
+
+
+/dev/rdisk7s1: fsck_hfs started at Tue Feb  4 11:28:27 2025
+/dev/rdisk7s1: Can't open /dev/rdisk7s1: Permission denied
+/dev/rdisk7s1: /dev/rdisk7s1: ** /dev/rdisk7s1 (NO WRITE)
+/dev/rdisk7s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s1: fsck_hfs completed at Tue Feb  4 11:28:27 2025
+
+
+/dev/rdisk8s1: fsck_hfs started at Tue Feb  4 15:05:27 2025
+/dev/rdisk8s1: Can't open /dev/rdisk8s1: Permission denied
+/dev/rdisk8s1: /dev/rdisk8s1: ** /dev/rdisk8s1 (NO WRITE)
+/dev/rdisk8s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s1: fsck_hfs completed at Tue Feb  4 15:05:27 2025
+
+
+/dev/rdisk9s2: fsck_hfs started at Thu Feb  6 23:58:01 2025
+/dev/rdisk9s2: Can't open /dev/rdisk9s2: Permission denied
+/dev/rdisk9s2: /dev/rdisk9s2: ** /dev/rdisk9s2 (NO WRITE)
+/dev/rdisk9s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk9s2: fsck_hfs completed at Thu Feb  6 23:58:01 2025
+
+
+/dev/rdisk9s2: fsck_hfs started at Thu Feb  6 23:58:01 2025
+/dev/rdisk9s2: Can't open /dev/rdisk9s2: Permission denied
+/dev/rdisk9s2: /dev/rdisk9s2: ** /dev/rdisk9s2 (NO WRITE)
+/dev/rdisk9s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk9s2: fsck_hfs completed at Thu Feb  6 23:58:01 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Fri Feb  7 22:57:47 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Fri Feb  7 22:57:47 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Fri Feb  7 22:57:50 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Fri Feb  7 22:57:50 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Feb 11 23:30:51 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Feb 11 23:30:51 2025
+
+
+/dev/rdisk5s2: fsck_hfs started at Tue Feb 11 23:56:29 2025
+/dev/rdisk5s2: Can't open /dev/rdisk5s2: Permission denied
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Tue Feb 11 23:56:29 2025
+
+
+/dev/rdisk5s2: fsck_hfs started at Tue Feb 11 23:56:29 2025
+/dev/rdisk5s2: Can't open /dev/rdisk5s2: Permission denied
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Tue Feb 11 23:56:29 2025
+
+
+/dev/rdisk5s2: fsck_hfs started at Fri Feb 14 08:29:23 2025
+/dev/rdisk5s2: Can't open /dev/rdisk5s2: Permission denied
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Fri Feb 14 08:29:23 2025
+
+
+/dev/rdisk5s2: fsck_hfs started at Fri Feb 14 08:29:23 2025
+/dev/rdisk5s2: Can't open /dev/rdisk5s2: Permission denied
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Fri Feb 14 08:29:23 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Feb 19 06:46:47 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Feb 19 06:46:47 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Feb 19 06:46:47 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Feb 19 06:46:47 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Feb 21 06:48:59 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Feb 21 06:48:59 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Feb 21 06:48:59 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Feb 21 06:48:59 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Feb 25 06:42:33 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Feb 25 06:42:33 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Feb 25 06:42:33 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Feb 25 06:42:33 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Feb 25 07:41:36 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Feb 25 07:41:36 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Feb 25 07:41:36 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Feb 25 07:41:36 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Feb 25 07:41:46 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Feb 25 07:41:46 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Feb 25 07:41:46 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Feb 25 07:41:46 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Feb 25 07:41:46 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Feb 25 07:41:46 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Feb 25 07:41:46 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Feb 25 07:41:46 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Feb 25 08:42:11 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Feb 25 08:42:11 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Feb 25 08:42:11 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Feb 25 08:42:11 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Feb 28 06:45:08 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Feb 28 06:45:08 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Feb 28 06:45:09 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Feb 28 06:45:09 2025
+
+
+/dev/rdisk4: fsck_hfs started at Fri Feb 28 19:38:23 2025
+/dev/rdisk4: Can't open /dev/rdisk4: Permission denied
+/dev/rdisk4: /dev/rdisk4: ** /dev/rdisk4 (NO WRITE)
+/dev/rdisk4:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4: fsck_hfs completed at Fri Feb 28 19:38:23 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Fri Feb 28 19:38:26 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Fri Feb 28 19:38:26 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Fri Feb 28 21:05:50 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Fri Feb 28 21:05:50 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Fri Feb 28 21:13:46 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Fri Feb 28 21:13:46 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Mar 11 06:54:41 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Mar 11 06:54:41 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Mar 11 06:54:41 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Mar 11 06:54:41 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Mar 13 06:44:07 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Mar 13 06:44:07 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Mar 13 06:44:07 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Mar 13 06:44:07 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Mar 13 07:43:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Mar 13 07:43:00 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Mar 13 07:43:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Mar 13 07:43:00 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Thu Mar 13 08:43:25 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Thu Mar 13 08:43:25 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Thu Mar 13 08:43:25 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Thu Mar 13 08:43:25 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Mar 14 22:24:44 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Mar 14 22:24:44 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Mar 19 07:57:59 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Mar 19 07:57:59 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Mar 19 07:58:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Mar 19 07:58:00 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Mar 20 06:41:48 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Mar 20 06:41:48 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Mar 20 06:41:48 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Mar 20 06:41:48 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Mar 20 23:37:43 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Mar 20 23:37:43 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Mar 20 23:37:43 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Mar 20 23:37:43 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Mar 26 07:23:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Mar 26 07:23:00 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Mar 26 07:23:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Mar 26 07:23:00 2025
+
+
+/dev/rdisk5s2: fsck_hfs started at Wed Mar 26 07:23:03 2025
+/dev/rdisk5s2: Can't open /dev/rdisk5s2: Permission denied
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Wed Mar 26 07:23:03 2025
+
+
+/dev/rdisk5s2: fsck_hfs started at Wed Mar 26 07:23:03 2025
+/dev/rdisk5s2: Can't open /dev/rdisk5s2: Permission denied
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Wed Mar 26 07:23:03 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Mar 26 07:23:14 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Mar 26 07:23:14 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Mar 26 07:23:14 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Mar 26 07:23:14 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Mar 26 08:23:13 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Mar 26 08:23:13 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Mar 26 08:23:13 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Mar 26 08:23:13 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Mar 26 08:23:41 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Mar 26 08:23:41 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Mar 26 08:23:41 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Mar 26 08:23:41 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr  2 06:41:31 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr  2 06:41:31 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr  2 06:41:31 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr  2 06:41:31 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Apr  8 06:36:29 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Apr  8 06:36:29 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Apr  8 06:36:29 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Apr  8 06:36:29 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr  9 06:50:02 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr  9 06:50:02 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr  9 06:50:02 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr  9 06:50:02 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Apr 10 23:06:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Apr 10 23:06:00 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Apr 10 23:06:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Apr 10 23:06:00 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Apr 12 19:37:55 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Apr 12 19:37:55 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Apr 12 19:37:55 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Apr 12 19:37:55 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Apr 12 19:38:02 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Apr 12 19:38:02 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Apr 12 19:38:02 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Apr 12 19:38:02 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Apr 13 16:10:24 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Apr 13 16:10:24 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Apr 13 16:10:24 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Apr 13 16:10:24 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Apr 13 16:10:34 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Apr 13 16:10:34 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Apr 13 16:10:34 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Apr 13 16:10:34 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr 16 06:36:34 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr 16 06:36:34 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr 16 06:36:34 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr 16 06:36:34 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr 16 07:35:45 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr 16 07:35:45 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr 16 07:35:45 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr 16 07:35:45 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Apr 18 04:42:38 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Apr 18 04:42:38 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Apr 18 04:42:38 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Apr 18 04:42:38 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Apr 19 18:40:48 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Apr 19 18:40:48 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Apr 19 18:40:48 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Apr 19 18:40:48 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Apr 19 18:56:19 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Apr 19 18:56:19 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Apr 19 18:56:20 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Apr 19 18:56:20 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sat Apr 19 19:41:09 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sat Apr 19 19:41:09 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sat Apr 19 19:41:09 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sat Apr 19 19:41:09 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Apr 20 19:50:47 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Apr 20 19:50:47 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Apr 20 19:50:47 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Apr 20 19:50:47 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Apr 20 19:50:54 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Apr 20 19:50:54 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sun Apr 20 19:50:54 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sun Apr 20 19:50:54 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon Apr 21 07:54:53 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon Apr 21 07:54:53 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon Apr 21 07:54:53 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon Apr 21 07:54:53 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon Apr 21 07:54:54 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon Apr 21 07:54:54 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon Apr 21 07:54:54 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon Apr 21 07:54:54 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr 23 12:08:10 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr 23 12:08:10 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Apr 23 12:08:10 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Apr 23 12:08:10 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon May  5 07:20:38 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon May  5 07:20:38 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon May  5 07:20:38 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon May  5 07:20:38 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon May  5 07:22:34 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon May  5 07:22:34 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon May  5 07:22:34 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon May  5 07:22:34 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon May  5 08:20:47 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon May  5 08:20:47 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon May  5 08:20:47 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon May  5 08:20:47 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon May  5 08:22:42 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon May  5 08:22:42 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon May  5 08:22:42 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon May  5 08:22:42 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue May  6 20:55:08 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue May  6 20:55:08 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue May  6 20:55:08 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue May  6 20:55:08 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu May  8 23:06:02 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu May  8 23:06:02 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu May  8 23:06:02 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu May  8 23:06:02 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon May 12 20:58:27 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon May 12 20:58:27 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Wed May 14 23:14:14 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Wed May 14 23:14:14 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Wed May 14 23:14:15 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Wed May 14 23:14:15 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Thu May 15 22:48:01 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Thu May 15 22:48:01 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Thu May 15 22:48:01 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Thu May 15 22:48:01 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Sat May 24 03:40:24 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Sat May 24 03:40:25 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Sat May 24 03:40:25 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Sat May 24 03:40:25 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Mon May 26 22:22:55 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Mon May 26 22:22:55 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Mon May 26 22:22:55 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Mon May 26 22:22:55 2025
+
+
+/dev/rdisk8s1: fsck_hfs started at Tue May 27 07:32:53 2025
+/dev/rdisk8s1: Can't open /dev/rdisk8s1: Permission denied
+/dev/rdisk8s1: /dev/rdisk8s1: ** /dev/rdisk8s1 (NO WRITE)
+/dev/rdisk8s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s1: fsck_hfs completed at Tue May 27 07:32:53 2025
+
+
+/dev/rdisk8s1: fsck_hfs started at Tue May 27 07:32:53 2025
+/dev/rdisk8s1: Can't open /dev/rdisk8s1: Permission denied
+/dev/rdisk8s1: /dev/rdisk8s1: ** /dev/rdisk8s1 (NO WRITE)
+/dev/rdisk8s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s1: fsck_hfs completed at Tue May 27 07:32:53 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Tue May 27 07:37:15 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Tue May 27 07:37:15 2025
+
+
+/dev/rdisk8s2: fsck_hfs started at Tue May 27 07:37:15 2025
+/dev/rdisk8s2: Can't open /dev/rdisk8s2: Permission denied
+/dev/rdisk8s2: /dev/rdisk8s2: ** /dev/rdisk8s2 (NO WRITE)
+/dev/rdisk8s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s2: fsck_hfs completed at Tue May 27 07:37:15 2025
+
+
+/dev/rdisk8s1: fsck_hfs started at Tue May 27 08:37:40 2025
+/dev/rdisk8s1: Can't open /dev/rdisk8s1: Permission denied
+/dev/rdisk8s1: /dev/rdisk8s1: ** /dev/rdisk8s1 (NO WRITE)
+/dev/rdisk8s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s1: fsck_hfs completed at Tue May 27 08:37:40 2025
+
+
+/dev/rdisk8s1: fsck_hfs started at Tue May 27 08:37:40 2025
+/dev/rdisk8s1: Can't open /dev/rdisk8s1: Permission denied
+/dev/rdisk8s1: /dev/rdisk8s1: ** /dev/rdisk8s1 (NO WRITE)
+/dev/rdisk8s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s1: fsck_hfs completed at Tue May 27 08:37:40 2025
+
+
+/dev/rdisk8s1: fsck_hfs started at Mon Jun  2 08:55:07 2025
+/dev/rdisk8s1: Can't open /dev/rdisk8s1: Permission denied
+/dev/rdisk8s1: /dev/rdisk8s1: ** /dev/rdisk8s1 (NO WRITE)
+/dev/rdisk8s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk8s1: fsck_hfs completed at Mon Jun  2 08:55:07 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Jun  3 06:52:25 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Jun  3 06:52:25 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Jun  3 06:52:25 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Jun  3 06:52:25 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Jun  6 03:10:58 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Jun  6 03:10:58 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Fri Jun  6 03:10:58 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Fri Jun  6 03:10:58 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Jun 10 21:44:29 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Jun 10 21:44:29 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Jun 10 21:44:29 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Jun 10 21:44:29 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Jun 12 22:09:03 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Jun 12 22:09:03 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Jun 12 22:09:03 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Jun 12 22:09:03 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Jun 15 22:31:42 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Jun 15 22:31:42 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Jun 19 07:37:02 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Jun 19 07:37:02 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Jun 19 07:37:02 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Jun 19 07:37:02 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Jun 19 23:28:32 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Jun 19 23:28:32 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Jun 19 23:28:32 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Jun 19 23:28:32 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Jun 24 22:23:52 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Jun 24 22:23:52 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Jun 24 22:23:52 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Jun 24 22:23:52 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon Jul  7 21:50:09 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon Jul  7 21:50:09 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon Jul  7 21:50:09 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon Jul  7 21:50:09 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon Jul  7 22:50:36 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon Jul  7 22:50:36 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon Jul  7 22:50:36 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon Jul  7 22:50:36 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon Jul  7 22:50:45 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon Jul  7 22:50:45 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon Jul  7 22:50:45 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon Jul  7 22:50:45 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Jul  8 07:26:02 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Jul  8 07:26:02 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Jul  8 07:26:02 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Jul  8 07:26:02 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Jul 17 07:22:22 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Jul 17 07:22:22 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Jul 17 07:22:23 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Jul 17 07:22:23 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Jul 23 07:42:17 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Jul 23 07:42:17 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Jul 23 07:42:17 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Jul 23 07:42:17 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Jul 23 08:42:16 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Jul 23 08:42:16 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Jul 23 08:42:16 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Jul 23 08:42:16 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Tue Aug  5 11:00:04 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Tue Aug  5 11:00:04 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Fri Aug  8 11:47:30 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Fri Aug  8 11:47:30 2025
+
+
+/dev/rdisk6s1: fsck_hfs started at Fri Aug  8 11:48:59 2025
+/dev/rdisk6s1: Can't open /dev/rdisk6s1: Permission denied
+/dev/rdisk6s1: /dev/rdisk6s1: ** /dev/rdisk6s1 (NO WRITE)
+/dev/rdisk6s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk6s1: fsck_hfs completed at Fri Aug  8 11:48:59 2025
+
+
+/dev/rdisk7s1: fsck_hfs started at Mon Aug 11 07:20:24 2025
+/dev/rdisk7s1: Can't open /dev/rdisk7s1: Permission denied
+/dev/rdisk7s1: /dev/rdisk7s1: ** /dev/rdisk7s1 (NO WRITE)
+/dev/rdisk7s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s1: fsck_hfs completed at Mon Aug 11 07:20:24 2025
+
+
+/dev/rdisk7s1: fsck_hfs started at Mon Aug 11 07:20:24 2025
+/dev/rdisk7s1: Can't open /dev/rdisk7s1: Permission denied
+/dev/rdisk7s1: /dev/rdisk7s1: ** /dev/rdisk7s1 (NO WRITE)
+/dev/rdisk7s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s1: fsck_hfs completed at Mon Aug 11 07:20:24 2025
+
+
+/dev/rdisk7s1: fsck_hfs started at Mon Aug 11 07:21:21 2025
+/dev/rdisk7s1: Can't open /dev/rdisk7s1: Permission denied
+/dev/rdisk7s1: /dev/rdisk7s1: ** /dev/rdisk7s1 (NO WRITE)
+/dev/rdisk7s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s1: fsck_hfs completed at Mon Aug 11 07:21:21 2025
+
+
+/dev/rdisk7s1: fsck_hfs started at Mon Aug 11 07:21:21 2025
+/dev/rdisk7s1: Can't open /dev/rdisk7s1: Permission denied
+/dev/rdisk7s1: /dev/rdisk7s1: ** /dev/rdisk7s1 (NO WRITE)
+/dev/rdisk7s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk7s1: fsck_hfs completed at Mon Aug 11 07:21:21 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Aug 21 22:30:10 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Aug 21 22:30:10 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Aug 21 22:30:10 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Aug 21 22:30:10 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Sep  2 14:20:33 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Sep  2 14:20:33 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Sep  2 14:20:33 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Sep  2 14:20:33 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Sep  2 15:22:15 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Sep  2 15:22:15 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Sep  2 15:22:15 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Sep  2 15:22:15 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Sep 18 19:46:54 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Sep 18 19:46:54 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Sep 23 18:21:22 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Sep 23 18:21:22 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Sep 23 18:21:22 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Sep 23 18:21:22 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Sep 23 19:21:24 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Sep 23 19:21:24 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Sep 23 19:21:24 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Sep 23 19:21:24 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Sep 24 11:39:15 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Sep 24 11:39:15 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Sep 24 11:39:17 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Sep 24 11:39:17 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Sep 27 11:56:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Sep 27 11:56:00 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Sep 27 11:56:00 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Sep 27 11:56:00 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Oct 16 05:39:52 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Oct 16 05:39:52 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Thu Oct 16 05:39:52 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Thu Oct 16 05:39:52 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Sun Oct 19 20:08:21 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Sun Oct 19 20:08:21 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Thu Oct 23 19:29:23 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Thu Oct 23 19:29:23 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Thu Oct 23 19:29:23 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Thu Oct 23 19:29:23 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Sun Oct 26 21:08:14 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Sun Oct 26 21:08:14 2025
+
+
+/dev/rdisk5s1: fsck_hfs started at Sun Oct 26 21:08:14 2025
+/dev/rdisk5s1: Can't open /dev/rdisk5s1: Permission denied
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Sun Oct 26 21:08:14 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon Nov 17 21:58:48 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon Nov 17 21:58:48 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Mon Nov 17 21:58:49 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Mon Nov 17 21:58:49 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon Nov 17 22:14:29 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon Nov 17 22:14:29 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Mon Nov 17 22:14:30 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Mon Nov 17 22:14:30 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Dec  2 22:48:50 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Dec  2 22:48:50 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Dec  2 22:48:50 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Dec  2 22:48:50 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Dec  2 23:48:38 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Dec  2 23:48:38 2025
+
+
+/dev/rdisk4s1: fsck_hfs started at Tue Dec  2 23:48:38 2025
+/dev/rdisk4s1: Can't open /dev/rdisk4s1: Permission denied
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Tue Dec  2 23:48:38 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Dec 20 03:41:03 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Dec 20 03:41:03 2025
+
+
+/dev/rdisk4s2: fsck_hfs started at Sat Dec 20 03:41:04 2025
+/dev/rdisk4s2: Can't open /dev/rdisk4s2: Permission denied
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-674).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Sat Dec 20 03:41:04 2025
+

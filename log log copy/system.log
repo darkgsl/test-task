@@ -1,0 +1,140 @@
+Dec 29 00:08:25 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 00:24:33 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 00:40:43 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:40:43 AirM1 syslogd[359]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 01:03:51 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 01:19:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 01:37:18 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 01:53:25 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 02:09:34 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 02:22:46 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 02:38:54 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 02:55:00 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 03:11:10 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 03:23:47 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 03:39:56 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 03:56:04 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 04:12:12 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 04:24:47 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 04:40:56 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 04:57:04 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 05:13:12 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 05:25:47 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 05:41:55 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 05:58:04 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 06:14:12 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 06:26:29 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 06:37:23 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 06:51:30 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 07:05:48 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 07:23:13 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 07:36:54 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 07:50:28 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 08:00:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 08:12:24 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 08:27:16 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 08:45:37 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 09:00:14 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 09:10:21 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 09:27:30 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 09:39:05 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 09:59:27 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 10:16:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 10:27:10 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 10:37:28 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 10:47:28 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 10:57:29 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 11:07:31 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 11:17:31 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 11:31:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 11:46:18 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 12:01:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 12:16:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 12:27:32 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 12:37:57 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 12:49:57 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 13:00:09 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 13:16:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 13:31:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 13:46:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 14:01:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 14:16:59 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 14:27:52 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 14:38:35 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 14:49:20 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 14:59:22 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 15:09:22 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 15:19:29 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 15:30:43 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 15:40:50 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 15:50:51 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 16:00:51 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 16:13:15 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 16:23:17 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 16:34:26 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 16:45:35 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 16:56:06 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 17:07:37 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 17:17:38 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 17:31:24 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 17:42:18 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 17:59:30 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 18:18:32 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 18:29:31 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 18:41:26 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 19:00:00 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 19:15:45 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 19:27:34 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 19:37:49 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 19:48:07 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 20:00:56 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 20:12:07 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 20:27:36 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 20:38:21 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 20:49:01 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 21:01:08 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 21:11:35 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 21:14:21 AirM1 login[780]: DEAD_PROCESS: 780 ttys000
+Dec 29 21:23:21 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 21:33:45 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 21:46:22 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 22:04:17 AirM1 syslogd[359]: ASL Sender Statistics
+Dec 29 22:18:10 AirM1 syslogd[359]: ASL Sender Statistics

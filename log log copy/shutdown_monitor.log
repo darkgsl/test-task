@@ -1,0 +1,1521 @@
+Sampling completed, generating report...
+Running heap/ddt for all (27) processes
+logd [107]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [150]: Unable to spawn ddt: 2 (No such file or directory)
+ [416]: Unable to spawn ddt: 3 (No such process)
+ [418]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [2548]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [2668]: Unable to spawn ddt: 2 (No such file or directory)
+GeneralSettings [2774]: Unable to spawn ddt: 2 (No such file or directory)
+AppleIDSettings [2781]: Unable to spawn ddt: 2 (No such file or directory)
+VPN [2786]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [2843]: Unable to spawn ddt: 2 (No such file or directory)
+AvatarPickerMemojiPicker [3048]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [6997]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (20) processes
+logd [341]: Unable to spawn ddt: 2 (No such file or directory)
+ [838]: Unable to spawn ddt: 3 (No such process)
+ [840]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [987]: Unable to spawn ddt: 2 (No such file or directory)
+VPN [5877]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [6983]: Unable to spawn ddt: 2 (No such file or directory)
+userfsd [8595]: Unable to spawn ddt: 2 (No such file or directory)
+sysextd [8636]: Unable to spawn ddt: 2 (No such file or directory)
+SettingsSystemExtensionControll [8641]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (17) processes
+diskarbitrationd [443]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [457]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [848]: Unable to spawn ddt: 2 (No such file or directory)
+ [926]: Unable to spawn ddt: 3 (No such process)
+ [927]: Unable to spawn ddt: 3 (No such process)
+VPN [964]: Unable to spawn ddt: 2 (No such file or directory)
+FamilySettings [967]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1091]: Unable to spawn ddt: 2 (No such file or directory)
+DefaultExtensionEnablement [1133]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1385]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+userfsd [688]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [774]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [855]: Unable to spawn ddt: 2 (No such file or directory)
+ [864]: Unable to spawn ddt: 3 (No such process)
+ [865]: Unable to spawn ddt: 3 (No such process)
+UVFSService [2982]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (27) processes
+logd [340]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [384]: Unable to spawn ddt: 2 (No such file or directory)
+sysextd [521]: Unable to spawn ddt: 2 (No such file or directory)
+userfsd [676]: Unable to spawn ddt: 2 (No such file or directory)
+GeneralSettings [735]: Unable to spawn ddt: 2 (No such file or directory)
+AppleIDSettings [761]: Unable to spawn ddt: 2 (No such file or directory)
+VPN [794]: Unable to spawn ddt: 2 (No such file or directory)
+ [860]: Unable to spawn ddt: 3 (No such process)
+ [861]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [934]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [982]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+ [878]: Unable to spawn ddt: 3 (No such process)
+ [879]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [971]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1119]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+logd [560]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [590]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [604]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [1007]: Unable to spawn ddt: 2 (No such file or directory)
+ [1097]: Unable to spawn ddt: 3 (No such process)
+ [1098]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [1165]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1192]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1713]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [338]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [382]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [969]: Unable to spawn ddt: 2 (No such file or directory)
+ [4821]: Unable to spawn ddt: 3 (No such process)
+ [4822]: Unable to spawn ddt: 3 (No such process)
+mmaintenanced [5522]: Unable to spawn ddt: 2 (No such file or directory)
+secd [6452]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [6530]: Unable to spawn ddt: 2 (No such file or directory)
+GeneralSettings [6775]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+ [824]: Unable to spawn ddt: 3 (No such process)
+ [825]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [952]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1024]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (14) processes
+diskarbitrationd [362]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [376]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [627]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [839]: Unable to spawn ddt: 2 (No such file or directory)
+ [843]: Unable to spawn ddt: 3 (No such process)
+ [844]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [869]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [4024]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+duetexpertd [700]: Unable to spawn ddt: 2 (No such file or directory)
+ [848]: Unable to spawn ddt: 3 (No such process)
+ [849]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [966]: Unable to spawn ddt: 2 (No such file or directory)
+WallpaperVideoExtension [3836]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+duetexpertd [702]: Unable to spawn ddt: 2 (No such file or directory)
+WeatherWidget [728]: Unable to spawn ddt: 2 (No such file or directory)
+ [849]: Unable to spawn ddt: 3 (No such process)
+ [850]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [899]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+installcoordinationd [814]: Unable to spawn ddt: 2 (No such file or directory)
+ [1057]: Unable to spawn ddt: 3 (No such process)
+ [1058]: Unable to spawn ddt: 3 (No such process)
+amsaccountsd [1810]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1897]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (13) processes
+duetexpertd [832]: Unable to spawn ddt: 2 (No such file or directory)
+ [850]: Unable to spawn ddt: 3 (No such process)
+ [851]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [873]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [3395]: Unable to spawn ddt: 2 (No such file or directory)
+routined [5533]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (14) processes
+diskarbitrationd [357]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [371]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [626]: Unable to spawn ddt: 2 (No such file or directory)
+ [845]: Unable to spawn ddt: 3 (No such process)
+ [846]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [873]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [883]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [2279]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+ [867]: Unable to spawn ddt: 3 (No such process)
+ [868]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1012]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [5572]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+duetexpertd [833]: Unable to spawn ddt: 2 (No such file or directory)
+ [839]: Unable to spawn ddt: 3 (No such process)
+ [841]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [927]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+duetexpertd [652]: Unable to spawn ddt: 2 (No such file or directory)
+ [839]: Unable to spawn ddt: 3 (No such process)
+ [840]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1086]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+ [830]: Unable to spawn ddt: 3 (No such process)
+ [831]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [928]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [945]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+ [841]: Unable to spawn ddt: 3 (No such process)
+ [842]: Unable to spawn ddt: 3 (No such process)
+AppleSpell [874]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1097]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [2207]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+duetexpertd [817]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [953]: Unable to spawn ddt: 2 (No such file or directory)
+ [1008]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+ [833]: Unable to spawn ddt: 3 (No such process)
+ [834]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [841]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [978]: Unable to spawn ddt: 2 (No such file or directory)
+remoting_me2me_host_service [1029]: Unable to spawn ddt: 2 (No such file or directory)
+SetStoreUpdateService [3899]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (13) processes
+AppleSpell [804]: Unable to spawn ddt: 2 (No such file or directory)
+ [846]: Unable to spawn ddt: 3 (No such process)
+ [847]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [867]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [979]: Unable to spawn ddt: 2 (No such file or directory)
+ControlCenterHelper [2908]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [3677]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+ [841]: Unable to spawn ddt: 3 (No such process)
+ [842]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [902]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [940]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (13) processes
+findmydeviced [421]: Unable to spawn ddt: 2 (No such file or directory)
+secd [603]: Unable to spawn ddt: 2 (No such file or directory)
+TrustedPeersHelper [617]: Unable to spawn ddt: 2 (No such file or directory)
+StocksWidget [766]: Unable to spawn ddt: 2 (No such file or directory)
+ [793]: Unable to spawn ddt: 3 (No such process)
+ [794]: Unable to spawn ddt: 3 (No such process)
+storekitagent [839]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+ [841]: Unable to spawn ddt: 3 (No such process)
+ [842]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [909]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [996]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (22) processes
+logd [332]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [362]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [376]: Unable to spawn ddt: 2 (No such file or directory)
+mds_stores [569]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [660]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [820]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [860]: Unable to spawn ddt: 2 (No such file or directory)
+ [903]: Unable to spawn ddt: 3 (No such process)
+ [905]: Unable to spawn ddt: 3 (No such process)
+ [5987]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+ [908]: Unable to spawn ddt: 3 (No such process)
+ [909]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [936]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1038]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2387]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (13) processes
+WeatherWidget [722]: Unable to spawn ddt: 2 (No such file or directory)
+ [847]: Unable to spawn ddt: 3 (No such process)
+ [849]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [894]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [980]: Unable to spawn ddt: 2 (No such file or directory)
+ [1590]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (22) processes
+logd [334]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [364]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [378]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [608]: Unable to spawn ddt: 2 (No such file or directory)
+ [832]: Unable to spawn ddt: 3 (No such process)
+ [833]: Unable to spawn ddt: 3 (No such process)
+ [834]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [849]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [863]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [4376]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (24) processes
+logd [324]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [354]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [368]: Unable to spawn ddt: 2 (No such file or directory)
+GeneralSettings [708]: Unable to spawn ddt: 2 (No such file or directory)
+AppleIDSettings [733]: Unable to spawn ddt: 2 (No such file or directory)
+FamilySettings [770]: Unable to spawn ddt: 2 (No such file or directory)
+VPN [777]: Unable to spawn ddt: 2 (No such file or directory)
+ [825]: Unable to spawn ddt: 3 (No such process)
+ [826]: Unable to spawn ddt: 3 (No such process)
+ [827]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [877]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [931]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+duetexpertd [796]: Unable to spawn ddt: 2 (No such file or directory)
+ [845]: Unable to spawn ddt: 3 (No such process)
+ [846]: Unable to spawn ddt: 3 (No such process)
+ [848]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [983]: Unable to spawn ddt: 2 (No such file or directory)
+AvatarPickerMemojiPicker [1216]: Unable to spawn ddt: 2 (No such file or directory)
+UIKitSystem [1248]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (13) processes
+duetexpertd [817]: Unable to spawn ddt: 2 (No such file or directory)
+ [853]: Unable to spawn ddt: 3 (No such process)
+ [855]: Unable to spawn ddt: 3 (No such process)
+ [856]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1072]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (14) processes
+duetexpertd [854]: Unable to spawn ddt: 2 (No such file or directory)
+ [858]: Unable to spawn ddt: 3 (No such process)
+ [859]: Unable to spawn ddt: 3 (No such process)
+ [860]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [935]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (32) processes
+logd [525]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [555]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [569]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [980]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1089]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1129]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1642]: Unable to spawn ddt: 2 (No such file or directory)
+ [3176]: Unable to spawn ddt: 3 (No such process)
+ [3177]: Unable to spawn ddt: 3 (No such process)
+ [3178]: Unable to spawn ddt: 3 (No such process)
+Electron [3358]: Unable to spawn ddt: 2 (No such file or directory)
+chrome_crashpad_handler [3362]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper (GPU) [3363]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper [3364]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper [3379]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper [3383]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper (Renderer) [3472]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper (Plugin) [3499]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper (Renderer) [3502]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper [3504]: Unable to spawn ddt: 2 (No such file or directory)
+zsh [3515]: Unable to spawn ddt: 2 (No such file or directory)
+Code Helper (Plugin) [3533]: Unable to spawn ddt: 2 (No such file or directory)
+zsh [3568]: Unable to spawn ddt: 2 (No such file or directory)
+zsh [3943]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+WallpaperVideoExtension [732]: Unable to spawn ddt: 2 (No such file or directory)
+ [831]: Unable to spawn ddt: 3 (No such process)
+ [832]: Unable to spawn ddt: 3 (No such process)
+ [833]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [925]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2973]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [4049]: Unable to spawn ddt: 2 (No such file or directory)
+calaccessd [4054]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+diskarbitrationd [364]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [378]: Unable to spawn ddt: 2 (No such file or directory)
+ [865]: Unable to spawn ddt: 3 (No such process)
+ [866]: Unable to spawn ddt: 3 (No such process)
+ [867]: Unable to spawn ddt: 3 (No such process)
+ [872]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1158]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [5991]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [6015]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [7602]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+diskarbitrationd [366]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [380]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [812]: Unable to spawn ddt: 2 (No such file or directory)
+ [860]: Unable to spawn ddt: 3 (No such process)
+ [861]: Unable to spawn ddt: 3 (No such process)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [863]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [864]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1356]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1413]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [325]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [355]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [369]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [608]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [714]: Unable to spawn ddt: 2 (No such file or directory)
+ [842]: Unable to spawn ddt: 3 (No such process)
+ [843]: Unable to spawn ddt: 3 (No such process)
+ [844]: Unable to spawn ddt: 3 (No such process)
+ [848]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [885]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1183]: Unable to spawn ddt: 2 (No such file or directory)
+siriinferenced [1205]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [366]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [380]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [647]: Unable to spawn ddt: 2 (No such file or directory)
+WallpaperVideoExtension [714]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [811]: Unable to spawn ddt: 2 (No such file or directory)
+ [860]: Unable to spawn ddt: 3 (No such process)
+ [861]: Unable to spawn ddt: 3 (No such process)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [863]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [992]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [16084]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (20) processes
+logd [335]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [365]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [379]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [614]: Unable to spawn ddt: 2 (No such file or directory)
+ [851]: Unable to spawn ddt: 3 (No such process)
+ [852]: Unable to spawn ddt: 3 (No such process)
+ [853]: Unable to spawn ddt: 3 (No such process)
+ [854]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [871]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [992]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [7892]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [376]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [390]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [826]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [829]: Unable to spawn ddt: 2 (No such file or directory)
+ [942]: Unable to spawn ddt: 3 (No such process)
+ [943]: Unable to spawn ddt: 3 (No such process)
+ [944]: Unable to spawn ddt: 3 (No such process)
+ [945]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1044]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [17742]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [382]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [396]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [652]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [862]: Unable to spawn ddt: 2 (No such file or directory)
+ [873]: Unable to spawn ddt: 3 (No such process)
+ [874]: Unable to spawn ddt: 3 (No such process)
+ [875]: Unable to spawn ddt: 3 (No such process)
+ [876]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [880]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [3215]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [4619]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+ [844]: Unable to spawn ddt: 3 (No such process)
+ [846]: Unable to spawn ddt: 3 (No such process)
+ [847]: Unable to spawn ddt: 3 (No such process)
+ [848]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [880]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1007]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [3366]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (24) processes
+logd [484]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [514]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [528]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [784]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [976]: Unable to spawn ddt: 2 (No such file or directory)
+ [1006]: Unable to spawn ddt: 3 (No such process)
+ [1007]: Unable to spawn ddt: 3 (No such process)
+ [1008]: Unable to spawn ddt: 3 (No such process)
+ [1009]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1064]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1591]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [369]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [383]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [604]: Unable to spawn ddt: 2 (No such file or directory)
+ [874]: Unable to spawn ddt: 3 (No such process)
+ [875]: Unable to spawn ddt: 3 (No such process)
+ [876]: Unable to spawn ddt: 3 (No such process)
+ [883]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [902]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1192]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1583]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [4223]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [335]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [854]: Unable to spawn ddt: 2 (No such file or directory)
+ [861]: Unable to spawn ddt: 3 (No such process)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [863]: Unable to spawn ddt: 3 (No such process)
+ [864]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [900]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [964]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [2606]: Unable to spawn ddt: 2 (No such file or directory)
+IMDPersistenceAgent [2656]: Unable to spawn ddt: 2 (No such file or directory)
+routined [2664]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [371]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [385]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [623]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [767]: Unable to spawn ddt: 2 (No such file or directory)
+ [841]: Unable to spawn ddt: 3 (No such process)
+ [842]: Unable to spawn ddt: 3 (No such process)
+ [844]: Unable to spawn ddt: 3 (No such process)
+ [845]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [932]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [995]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+duetexpertd [842]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [867]: Unable to spawn ddt: 2 (No such file or directory)
+ [876]: Unable to spawn ddt: 3 (No such process)
+ [877]: Unable to spawn ddt: 3 (No such process)
+ [878]: Unable to spawn ddt: 3 (No such process)
+ [880]: Unable to spawn ddt: 3 (No such process)
+MauiAUSP [1914]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (25) processes
+logd [333]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [363]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [377]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [782]: Unable to spawn ddt: 2 (No such file or directory)
+ [847]: Unable to spawn ddt: 3 (No such process)
+ [850]: Unable to spawn ddt: 3 (No such process)
+ [852]: Unable to spawn ddt: 3 (No such process)
+ [853]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [882]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [896]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1883]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (24) processes
+logd [354]: Unable to spawn ddt: 2 (No such file or directory)
+mediaremoted [359]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [384]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [398]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [681]: Unable to spawn ddt: 2 (No such file or directory)
+ [894]: Unable to spawn ddt: 3 (No such process)
+ [896]: Unable to spawn ddt: 3 (No such process)
+ [897]: Unable to spawn ddt: 3 (No such process)
+ [898]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [910]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1073]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [365]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [379]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [625]: Unable to spawn ddt: 2 (No such file or directory)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [863]: Unable to spawn ddt: 3 (No such process)
+ [865]: Unable to spawn ddt: 3 (No such process)
+ [866]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [935]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1020]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+duetexpertd [806]: Unable to spawn ddt: 2 (No such file or directory)
+ [850]: Unable to spawn ddt: 3 (No such process)
+ [851]: Unable to spawn ddt: 3 (No such process)
+ [852]: Unable to spawn ddt: 3 (No such process)
+ [853]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [884]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2206]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (24) processes
+logd [334]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [364]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [378]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [675]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [682]: Unable to spawn ddt: 2 (No such file or directory)
+ [859]: Unable to spawn ddt: 3 (No such process)
+ [860]: Unable to spawn ddt: 3 (No such process)
+ [861]: Unable to spawn ddt: 3 (No such process)
+ [864]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [940]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1506]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (23) processes
+logd [344]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [374]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [388]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [841]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [844]: Unable to spawn ddt: 2 (No such file or directory)
+ [859]: Unable to spawn ddt: 3 (No such process)
+ [860]: Unable to spawn ddt: 3 (No such process)
+ [861]: Unable to spawn ddt: 3 (No such process)
+ [862]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [955]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [4264]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [363]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [377]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [631]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [865]: Unable to spawn ddt: 2 (No such file or directory)
+ [868]: Unable to spawn ddt: 3 (No such process)
+ [869]: Unable to spawn ddt: 3 (No such process)
+ [870]: Unable to spawn ddt: 3 (No such process)
+ [871]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [909]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1538]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [8655]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [333]: Unable to spawn ddt: 2 (No such file or directory)
+ [837]: Unable to spawn ddt: 3 (No such process)
+ [838]: Unable to spawn ddt: 3 (No such process)
+ [839]: Unable to spawn ddt: 3 (No such process)
+ [840]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [901]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1776]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [2162]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [2382]: Unable to spawn ddt: 2 (No such file or directory)
+homeenergyd [2658]: Unable to spawn ddt: 2 (No such file or directory)
+biomesyncd [2687]: Unable to spawn ddt: 2 (No such file or directory)
+transparencyd [2690]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [458]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [472]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [735]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [823]: Unable to spawn ddt: 2 (No such file or directory)
+ [941]: Unable to spawn ddt: 3 (No such process)
+ [942]: Unable to spawn ddt: 3 (No such process)
+ [943]: Unable to spawn ddt: 3 (No such process)
+ [944]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1270]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1620]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [366]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [380]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [602]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [773]: Unable to spawn ddt: 2 (No such file or directory)
+ [853]: Unable to spawn ddt: 3 (No such process)
+ [854]: Unable to spawn ddt: 3 (No such process)
+ [855]: Unable to spawn ddt: 3 (No such process)
+ [856]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1024]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [3370]: Unable to spawn ddt: 2 (No such file or directory)
+chronod [11088]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [365]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [379]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [605]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [767]: Unable to spawn ddt: 2 (No such file or directory)
+ [899]: Unable to spawn ddt: 3 (No such process)
+ [903]: Unable to spawn ddt: 3 (No such process)
+ [905]: Unable to spawn ddt: 3 (No such process)
+ [906]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1001]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2526]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+ [850]: Unable to spawn ddt: 3 (No such process)
+ [858]: Unable to spawn ddt: 3 (No such process)
+ [859]: Unable to spawn ddt: 3 (No such process)
+ [860]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [934]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2361]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [2410]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+ [826]: Unable to spawn ddt: 3 (No such process)
+ [827]: Unable to spawn ddt: 3 (No such process)
+ [828]: Unable to spawn ddt: 3 (No such process)
+ [829]: Unable to spawn ddt: 3 (No such process)
+AppleSpell [855]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1141]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1550]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [7392]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+ [836]: Unable to spawn ddt: 3 (No such process)
+ [837]: Unable to spawn ddt: 3 (No such process)
+ [838]: Unable to spawn ddt: 3 (No such process)
+ [839]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1155]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [4191]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [334]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [364]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [378]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [595]: Unable to spawn ddt: 2 (No such file or directory)
+ [845]: Unable to spawn ddt: 3 (No such process)
+ [846]: Unable to spawn ddt: 3 (No such process)
+ [847]: Unable to spawn ddt: 3 (No such process)
+ [849]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [877]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1377]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [2730]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [17362]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [368]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [382]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [688]: Unable to spawn ddt: 2 (No such file or directory)
+ [846]: Unable to spawn ddt: 3 (No such process)
+ [849]: Unable to spawn ddt: 3 (No such process)
+ [852]: Unable to spawn ddt: 3 (No such process)
+ [853]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [891]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [941]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1376]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [7365]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+ [1195]: Unable to spawn ddt: 3 (No such process)
+ [1196]: Unable to spawn ddt: 3 (No such process)
+ [1197]: Unable to spawn ddt: 3 (No such process)
+ [1198]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1372]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2428]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [2817]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (26) processes
+logd [333]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [363]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [377]: Unable to spawn ddt: 2 (No such file or directory)
+WeatherWidget [660]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [676]: Unable to spawn ddt: 2 (No such file or directory)
+StocksWidget [680]: Unable to spawn ddt: 2 (No such file or directory)
+ScreenTimeWidgetExtension [694]: Unable to spawn ddt: 2 (No such file or directory)
+ [853]: Unable to spawn ddt: 3 (No such process)
+ [854]: Unable to spawn ddt: 3 (No such process)
+ [856]: Unable to spawn ddt: 3 (No such process)
+ [858]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (25) processes
+logd [337]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [367]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [381]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [624]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [816]: Unable to spawn ddt: 2 (No such file or directory)
+chrome_crashpad_handler [828]: Unable to spawn ddt: 2 (No such file or directory)
+ [865]: Unable to spawn ddt: 3 (No such process)
+ [866]: Unable to spawn ddt: 3 (No such process)
+ [867]: Unable to spawn ddt: 3 (No such process)
+ [868]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [908]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1277]: Unable to spawn ddt: 2 (No such file or directory)
+language_server_macos_arm [3664]: Unable to spawn ddt: 2 (No such file or directory)
+language_server_macos_arm [3666]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [341]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [371]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [385]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [665]: Unable to spawn ddt: 2 (No such file or directory)
+ [825]: Unable to spawn ddt: 3 (No such process)
+ [826]: Unable to spawn ddt: 3 (No such process)
+ [828]: Unable to spawn ddt: 3 (No such process)
+ [829]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [936]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1056]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1396]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [14313]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+diskarbitrationd [1649]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [1663]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [1914]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [2108]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [2142]: Unable to spawn ddt: 2 (No such file or directory)
+ [2157]: Unable to spawn ddt: 3 (No such process)
+ [2158]: Unable to spawn ddt: 3 (No such process)
+ [2159]: Unable to spawn ddt: 3 (No such process)
+ [2160]: Unable to spawn ddt: 3 (No such process)
+MauiAUSP [3457]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (23) processes
+logd [337]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [367]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [381]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [720]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [724]: Unable to spawn ddt: 2 (No such file or directory)
+ [852]: Unable to spawn ddt: 3 (No such process)
+ [853]: Unable to spawn ddt: 3 (No such process)
+ [854]: Unable to spawn ddt: 3 (No such process)
+ [855]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1049]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [7526]: Unable to spawn ddt: 2 (No such file or directory)
+routined [15256]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [15258]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [336]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [366]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [380]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [646]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [795]: Unable to spawn ddt: 2 (No such file or directory)
+ [829]: Unable to spawn ddt: 3 (No such process)
+ [830]: Unable to spawn ddt: 3 (No such process)
+ [831]: Unable to spawn ddt: 3 (No such process)
+ [832]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1087]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1398]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [6254]: Unable to spawn ddt: 2 (No such file or directory)
+routined [9283]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+duetexpertd [781]: Unable to spawn ddt: 2 (No such file or directory)
+ [846]: Unable to spawn ddt: 3 (No such process)
+ [848]: Unable to spawn ddt: 3 (No such process)
+ [851]: Unable to spawn ddt: 3 (No such process)
+ [852]: Unable to spawn ddt: 3 (No such process)
+AppleSpell [880]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [969]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1498]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+ [842]: Unable to spawn ddt: 3 (No such process)
+ [843]: Unable to spawn ddt: 3 (No such process)
+ [846]: Unable to spawn ddt: 3 (No such process)
+ [848]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [882]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [929]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [393]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [407]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [641]: Unable to spawn ddt: 2 (No such file or directory)
+ [915]: Unable to spawn ddt: 3 (No such process)
+ [917]: Unable to spawn ddt: 3 (No such process)
+ [918]: Unable to spawn ddt: 3 (No such process)
+ [919]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [929]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [946]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1798]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [365]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [379]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [597]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [770]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [830]: Unable to spawn ddt: 2 (No such file or directory)
+ [854]: Unable to spawn ddt: 3 (No such process)
+ [856]: Unable to spawn ddt: 3 (No such process)
+ [857]: Unable to spawn ddt: 3 (No such process)
+ [858]: Unable to spawn ddt: 3 (No such process)
+amsaccountsd [21889]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (24) processes
+logd [333]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [363]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [377]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [696]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [711]: Unable to spawn ddt: 2 (No such file or directory)
+ [806]: Unable to spawn ddt: 3 (No such process)
+ [807]: Unable to spawn ddt: 3 (No such process)
+ [808]: Unable to spawn ddt: 3 (No such process)
+ [809]: Unable to spawn ddt: 3 (No such process)
+AppleSpell [875]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [888]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [369]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [383]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [800]: Unable to spawn ddt: 2 (No such file or directory)
+ [897]: Unable to spawn ddt: 3 (No such process)
+ [900]: Unable to spawn ddt: 3 (No such process)
+ [902]: Unable to spawn ddt: 3 (No such process)
+ [903]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1062]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [4791]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [5270]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [337]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [367]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [381]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [629]: Unable to spawn ddt: 2 (No such file or directory)
+ [839]: Unable to spawn ddt: 3 (No such process)
+ [840]: Unable to spawn ddt: 3 (No such process)
+ [842]: Unable to spawn ddt: 3 (No such process)
+ [844]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [906]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [955]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [10088]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+duetexpertd [837]: Unable to spawn ddt: 2 (No such file or directory)
+ [859]: Unable to spawn ddt: 3 (No such process)
+ [861]: Unable to spawn ddt: 3 (No such process)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [863]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [967]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1405]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [369]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [383]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [604]: Unable to spawn ddt: 2 (No such file or directory)
+ [852]: Unable to spawn ddt: 3 (No such process)
+ [853]: Unable to spawn ddt: 3 (No such process)
+ [855]: Unable to spawn ddt: 3 (No such process)
+ [858]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [894]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [922]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [3150]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+duetexpertd [733]: Unable to spawn ddt: 2 (No such file or directory)
+ [842]: Unable to spawn ddt: 3 (No such process)
+ [843]: Unable to spawn ddt: 3 (No such process)
+ [844]: Unable to spawn ddt: 3 (No such process)
+ [845]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1742]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (22) processes
+logd [335]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [365]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [379]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [627]: Unable to spawn ddt: 2 (No such file or directory)
+ [825]: Unable to spawn ddt: 3 (No such process)
+ [826]: Unable to spawn ddt: 3 (No such process)
+ [827]: Unable to spawn ddt: 3 (No such process)
+ [828]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [861]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [893]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1515]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [365]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [379]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [796]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [799]: Unable to spawn ddt: 2 (No such file or directory)
+ [872]: Unable to spawn ddt: 3 (No such process)
+ [873]: Unable to spawn ddt: 3 (No such process)
+ [874]: Unable to spawn ddt: 3 (No such process)
+ [875]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1006]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [14197]: Unable to spawn ddt: 2 (No such file or directory)
+routined [26138]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [382]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [396]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [814]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [819]: Unable to spawn ddt: 2 (No such file or directory)
+ [854]: Unable to spawn ddt: 3 (No such process)
+ [855]: Unable to spawn ddt: 3 (No such process)
+ [856]: Unable to spawn ddt: 3 (No such process)
+ [857]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [938]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [3306]: Unable to spawn ddt: 2 (No such file or directory)
+ShareSheetUI [32959]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [363]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [377]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [609]: Unable to spawn ddt: 2 (No such file or directory)
+QLPreviewGenerationExtension [771]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [817]: Unable to spawn ddt: 2 (No such file or directory)
+ [840]: Unable to spawn ddt: 3 (No such process)
+ [841]: Unable to spawn ddt: 3 (No such process)
+ [842]: Unable to spawn ddt: 3 (No such process)
+ [843]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [929]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1426]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (24) processes
+logd [338]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [368]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [382]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [596]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [817]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [979]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1379]: Unable to spawn ddt: 2 (No such file or directory)
+ [21954]: Unable to spawn ddt: 3 (No such process)
+ [21955]: Unable to spawn ddt: 3 (No such process)
+ [21956]: Unable to spawn ddt: 3 (No such process)
+ [21957]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+securityd [428]: Unable to spawn ddt: 2 (No such file or directory)
+ [905]: Unable to spawn ddt: 3 (No such process)
+ [906]: Unable to spawn ddt: 3 (No such process)
+ [908]: Unable to spawn ddt: 3 (No such process)
+ [909]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1341]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [10317]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [11615]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (31) processes
+logd [340]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [370]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [384]: Unable to spawn ddt: 2 (No such file or directory)
+secd [642]: Unable to spawn ddt: 2 (No such file or directory)
+accountsd [654]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [674]: Unable to spawn ddt: 2 (No such file or directory)
+akd [679]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [711]: Unable to spawn ddt: 2 (No such file or directory)
+GeneralSettings [781]: Unable to spawn ddt: 2 (No such file or directory)
+AppleIDSettings [790]: Unable to spawn ddt: 2 (No such file or directory)
+ [799]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [938]: Unable to spawn ddt: 2 (No such file or directory)
+ [965]: Unable to spawn ddt: 3 (No such process)
+ [967]: Unable to spawn ddt: 3 (No such process)
+ [968]: Unable to spawn ddt: 3 (No such process)
+ [969]: Unable to spawn ddt: 3 (No such process)
+AvatarPickerMemojiPicker [1184]: Unable to spawn ddt: 2 (No such file or directory)
+AvatarPickerMemojiEditor [1387]: Unable to spawn ddt: 2 (No such file or directory)
+ [1388]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [865]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [895]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [909]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [1314]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1319]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1381]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [8569]: Unable to spawn ddt: 2 (No such file or directory)
+ [72692]: Unable to spawn ddt: 3 (No such process)
+ [72693]: Unable to spawn ddt: 3 (No such process)
+ [72694]: Unable to spawn ddt: 3 (No such process)
+ [72695]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [384]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [398]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [751]: Unable to spawn ddt: 2 (No such file or directory)
+ [859]: Unable to spawn ddt: 3 (No such process)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [864]: Unable to spawn ddt: 3 (No such process)
+ [865]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [916]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [3356]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [366]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [380]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [811]: Unable to spawn ddt: 2 (No such file or directory)
+ [832]: Unable to spawn ddt: 3 (No such process)
+ [833]: Unable to spawn ddt: 3 (No such process)
+ [834]: Unable to spawn ddt: 3 (No such process)
+ [837]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [922]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [963]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1339]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [451]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [481]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [495]: Unable to spawn ddt: 2 (No such file or directory)
+cdpd [810]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [847]: Unable to spawn ddt: 2 (No such file or directory)
+ [956]: Unable to spawn ddt: 3 (No such process)
+ [959]: Unable to spawn ddt: 3 (No such process)
+ [963]: Unable to spawn ddt: 3 (No such process)
+ [964]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [1008]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1073]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1355]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1685]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (22) processes
+logd [334]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [364]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [378]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [645]: Unable to spawn ddt: 2 (No such file or directory)
+ [825]: Unable to spawn ddt: 3 (No such process)
+ [826]: Unable to spawn ddt: 3 (No such process)
+ [827]: Unable to spawn ddt: 3 (No such process)
+ [828]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [865]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [975]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1412]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1566]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [38689]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (22) processes
+logd [371]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [401]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [415]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [908]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [914]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [917]: Unable to spawn ddt: 2 (No such file or directory)
+ [950]: Unable to spawn ddt: 3 (No such process)
+ [951]: Unable to spawn ddt: 3 (No such process)
+ [952]: Unable to spawn ddt: 3 (No such process)
+ [953]: Unable to spawn ddt: 3 (No such process)
+remoting_me2me_host_service [1032]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1407]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2154]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [10811]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [365]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [379]: Unable to spawn ddt: 2 (No such file or directory)
+ [798]: Unable to spawn ddt: 3 (No such process)
+ [799]: Unable to spawn ddt: 3 (No such process)
+ [800]: Unable to spawn ddt: 3 (No such process)
+ [801]: Unable to spawn ddt: 3 (No such process)
+assistantd [874]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [939]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [3278]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [4250]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (22) processes
+logd [371]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [401]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [415]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [682]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [842]: Unable to spawn ddt: 2 (No such file or directory)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [863]: Unable to spawn ddt: 3 (No such process)
+ [864]: Unable to spawn ddt: 3 (No such process)
+ [865]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [904]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1471]: Unable to spawn ddt: 2 (No such file or directory)
+appleaccountd [45393]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [57132]: Unable to spawn ddt: 2 (No such file or directory)
+routined [99275]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [363]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [377]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [652]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [880]: Unable to spawn ddt: 2 (No such file or directory)
+ [1202]: Unable to spawn ddt: 3 (No such process)
+ [1203]: Unable to spawn ddt: 3 (No such process)
+ [1204]: Unable to spawn ddt: 3 (No such process)
+ [1205]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [3439]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [4093]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [6870]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [367]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [381]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [617]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [840]: Unable to spawn ddt: 2 (No such file or directory)
+ [856]: Unable to spawn ddt: 3 (No such process)
+ [857]: Unable to spawn ddt: 3 (No such process)
+ [858]: Unable to spawn ddt: 3 (No such process)
+ [860]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1069]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1604]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (22) processes
+logd [367]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [397]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [411]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [709]: Unable to spawn ddt: 2 (No such file or directory)
+ [825]: Unable to spawn ddt: 3 (No such process)
+ [828]: Unable to spawn ddt: 3 (No such process)
+ [829]: Unable to spawn ddt: 3 (No such process)
+ [830]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [875]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1166]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1353]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (14) processes
+ [895]: Unable to spawn ddt: 3 (No such process)
+ [898]: Unable to spawn ddt: 3 (No such process)
+ [901]: Unable to spawn ddt: 3 (No such process)
+ [905]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1103]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2210]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [10903]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [405]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [419]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [652]: Unable to spawn ddt: 2 (No such file or directory)
+ [898]: Unable to spawn ddt: 3 (No such process)
+ [899]: Unable to spawn ddt: 3 (No such process)
+ [900]: Unable to spawn ddt: 3 (No such process)
+ [901]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [960]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [966]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1186]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [23156]: Unable to spawn ddt: 2 (No such file or directory)
+ [73259]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (22) processes
+logd [337]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [367]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [381]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [622]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [839]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [959]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1346]: Unable to spawn ddt: 2 (No such file or directory)
+siriinferenced [19157]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [36339]: Unable to spawn ddt: 2 (No such file or directory)
+photolibraryd [50199]: Unable to spawn ddt: 2 (No such file or directory)
+ [67055]: Unable to spawn ddt: 3 (No such process)
+ [67056]: Unable to spawn ddt: 3 (No such process)
+ [67058]: Unable to spawn ddt: 3 (No such process)
+ [67059]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (23) processes
+logd [342]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [372]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [386]: Unable to spawn ddt: 2 (No such file or directory)
+ [868]: Unable to spawn ddt: 3 (No such process)
+ [869]: Unable to spawn ddt: 3 (No such process)
+ [870]: Unable to spawn ddt: 3 (No such process)
+ [872]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1155]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [2283]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [13320]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [13418]: Unable to spawn ddt: 2 (No such file or directory)
+QLPreviewGenerationExtension [25605]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [35114]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [76542]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+diskarbitrationd [365]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [379]: Unable to spawn ddt: 2 (No such file or directory)
+ [841]: Unable to spawn ddt: 3 (No such process)
+ [843]: Unable to spawn ddt: 3 (No such process)
+ [844]: Unable to spawn ddt: 3 (No such process)
+ [845]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1233]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [4331]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [4349]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [5292]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [13297]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [442]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [456]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [710]: Unable to spawn ddt: 2 (No such file or directory)
+WallpaperVideoExtension [776]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [893]: Unable to spawn ddt: 2 (No such file or directory)
+ [962]: Unable to spawn ddt: 3 (No such process)
+ [963]: Unable to spawn ddt: 3 (No such process)
+ [964]: Unable to spawn ddt: 3 (No such process)
+ [965]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1192]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1345]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1879]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [364]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [378]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [647]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [986]: Unable to spawn ddt: 2 (No such file or directory)
+ [1021]: Unable to spawn ddt: 3 (No such process)
+ [1022]: Unable to spawn ddt: 3 (No such process)
+ [1023]: Unable to spawn ddt: 3 (No such process)
+ [1024]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1030]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1628]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [25404]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+diskarbitrationd [615]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [629]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [1026]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1079]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1198]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [8035]: Unable to spawn ddt: 2 (No such file or directory)
+ [24220]: Unable to spawn ddt: 3 (No such process)
+ [24221]: Unable to spawn ddt: 3 (No such process)
+ [24222]: Unable to spawn ddt: 3 (No such process)
+ [24223]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [370]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [384]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [850]: Unable to spawn ddt: 2 (No such file or directory)
+ [854]: Unable to spawn ddt: 3 (No such process)
+ [858]: Unable to spawn ddt: 3 (No such process)
+ [859]: Unable to spawn ddt: 3 (No such process)
+ [861]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [953]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1033]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1566]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1944]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [25971]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+diskarbitrationd [1256]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [1270]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1816]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [5484]: Unable to spawn ddt: 2 (No such file or directory)
+ [13635]: Unable to spawn ddt: 3 (No such process)
+ [13636]: Unable to spawn ddt: 3 (No such process)
+ [13637]: Unable to spawn ddt: 3 (No such process)
+ [13638]: Unable to spawn ddt: 3 (No such process)
+assistantd [23309]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [57235]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (17) processes
+diskarbitrationd [386]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [400]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [650]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [930]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [986]: Unable to spawn ddt: 2 (No such file or directory)
+ [2053]: Unable to spawn ddt: 3 (No such process)
+ [2054]: Unable to spawn ddt: 3 (No such process)
+ [2055]: Unable to spawn ddt: 3 (No such process)
+ [2056]: Unable to spawn ddt: 3 (No such process)
+mmaintenanced [2207]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [53503]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+diskarbitrationd [373]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [387]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [722]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [867]: Unable to spawn ddt: 2 (No such file or directory)
+ [892]: Unable to spawn ddt: 3 (No such process)
+ [893]: Unable to spawn ddt: 3 (No such process)
+ [895]: Unable to spawn ddt: 3 (No such process)
+ [896]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [928]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [21148]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (30) processes
+logd [437]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [467]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [481]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [709]: Unable to spawn ddt: 2 (No such file or directory)
+ [976]: Unable to spawn ddt: 3 (No such process)
+ [977]: Unable to spawn ddt: 3 (No such process)
+ [978]: Unable to spawn ddt: 3 (No such process)
+ [980]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [1020]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1105]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1694]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (17) processes
+diskarbitrationd [376]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [390]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [614]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [938]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1029]: Unable to spawn ddt: 2 (No such file or directory)
+ [1126]: Unable to spawn ddt: 3 (No such process)
+ [1128]: Unable to spawn ddt: 3 (No such process)
+ [1129]: Unable to spawn ddt: 3 (No such process)
+ [1131]: Unable to spawn ddt: 3 (No such process)
+mmaintenanced [2107]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (19) processes
+diskarbitrationd [375]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [389]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [608]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1006]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1197]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [2235]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [10775]: Unable to spawn ddt: 2 (No such file or directory)
+ [39341]: Unable to spawn ddt: 3 (No such process)
+ [39342]: Unable to spawn ddt: 3 (No such process)
+ [39343]: Unable to spawn ddt: 3 (No such process)
+ [39344]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+diskarbitrationd [366]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [380]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [602]: Unable to spawn ddt: 2 (No such file or directory)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [863]: Unable to spawn ddt: 3 (No such process)
+ [864]: Unable to spawn ddt: 3 (No such process)
+ [865]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [910]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [955]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [2247]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (13) processes
+ [885]: Unable to spawn ddt: 3 (No such process)
+ [886]: Unable to spawn ddt: 3 (No such process)
+ [888]: Unable to spawn ddt: 3 (No such process)
+ [889]: Unable to spawn ddt: 3 (No such process)
+diagnostics_agent [1035]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1063]: Unable to spawn ddt: 2 (No such file or directory)
+SiriSuggestionsBookkeepingServi [1165]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (17) processes
+diskarbitrationd [400]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [414]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [824]: Unable to spawn ddt: 2 (No such file or directory)
+ [929]: Unable to spawn ddt: 3 (No such process)
+ [931]: Unable to spawn ddt: 3 (No such process)
+ [933]: Unable to spawn ddt: 3 (No such process)
+ [937]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [978]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1030]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [4137]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [91800]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+diskarbitrationd [363]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [377]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [680]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [686]: Unable to spawn ddt: 2 (No such file or directory)
+installcoordinationd [1073]: Unable to spawn ddt: 2 (No such file or directory)
+ [1094]: Unable to spawn ddt: 3 (No such process)
+ [1095]: Unable to spawn ddt: 3 (No such process)
+ [1096]: Unable to spawn ddt: 3 (No such process)
+ [1097]: Unable to spawn ddt: 3 (No such process)
+mmaintenanced [2277]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [333]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [363]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [377]: Unable to spawn ddt: 2 (No such file or directory)
+accountsd [617]: Unable to spawn ddt: 2 (No such file or directory)
+ [858]: Unable to spawn ddt: 3 (No such process)
+ [862]: Unable to spawn ddt: 3 (No such process)
+ [863]: Unable to spawn ddt: 3 (No such process)
+ [865]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1064]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [1348]: Unable to spawn ddt: 2 (No such file or directory)
+MauiAUSP [1491]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [4129]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (18) processes
+diskarbitrationd [603]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [617]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [988]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [1063]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1066]: Unable to spawn ddt: 2 (No such file or directory)
+ [1111]: Unable to spawn ddt: 3 (No such process)
+ [1113]: Unable to spawn ddt: 3 (No such process)
+ [1114]: Unable to spawn ddt: 3 (No such process)
+ [1115]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1972]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [25835]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+ [847]: Unable to spawn ddt: 3 (No such process)
+ [848]: Unable to spawn ddt: 3 (No such process)
+ [849]: Unable to spawn ddt: 3 (No such process)
+ [850]: Unable to spawn ddt: 3 (No such process)
+installcoordinationd [1176]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [4303]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report

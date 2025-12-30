@@ -1,0 +1,6 @@
+services:
+  backend:
+    image: my-web-app:latest
+    container_name: my-web-app
+    ports:
+      - 8080:80
